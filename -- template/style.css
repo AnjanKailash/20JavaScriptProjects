@@ -1,0 +1,10 @@
+html {
+    /* removes horizntal scroll by redcucing un necessary padding */
+    box-sizing: border-box; 
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    /* background-color: dodgerblue; */
+}
